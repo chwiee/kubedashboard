@@ -50,7 +50,7 @@ Copy the token and paste in your browser.
 ```bash wb-kubedash.sh $1```
 
 When $1:
->apply  -> to create a dashboard kubernetes
->delete -> to delete the dashboard kubernetes
->token  -> to get token
+>apply  -> to create a dashboard kubernetes \
+>delete -> to delete the dashboard kubernetes \
+>token  -> to get token \
 >help   -> to help
